@@ -60,13 +60,13 @@ A simple WhatsApp User bot. created by Silva 👑😊❤️
              ALWAYS_ONLINE = false
              RMBG_KEY = null
              LANGUAG = en
-             WARN_LIMIT = 3
+             WARN_LIMIT = 2
              FORCE_LOGOUT = false
              BRAINSHOP = 159501,6pq8dPiYt7PdqHz3
-             MAX_UPLOAD = 200
+             MAX_UPLOAD = 500
              REJECT_CALL = false
-             SUDO = 989876543210
-             TZ = Asia/Kolkata
+             SUDO = 254700143167
+             TZ = Kenya/Nairobi
              VPS = true
              AUTO_STATUS_VIEW = true
              SEND_READ = true
